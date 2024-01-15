@@ -1,0 +1,6 @@
+---
+source: src/lib.rs
+expression: res
+---
+"> 0 | println!(\"Hello, world!\")\n    | ^^^^^^^ "
+
